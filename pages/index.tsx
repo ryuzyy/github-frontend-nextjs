@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Func B-2 Welcome to{' '}
+          Func C-1 Welcome to{' '}
           <a href="https://nextjs.org">Next.js + TypeScript!</a>
         </h1>
 
