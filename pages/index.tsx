@@ -14,7 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Function C-1 Welcome to{' '}
-          <a href="https://nextjs.org">Next.js + TypeScript!</a>
+          <a href="https://nextjs.org">Next.js ++ TypeScript!</a>
         </h1>
 
         <p className={styles.description}>
